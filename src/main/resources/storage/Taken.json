@@ -1,0 +1,12 @@
+[
+  {
+    "NaamTaak": "Afwas",
+    "Inhoud": "afwassen pannen",
+    "Status": "+"
+  },
+  {
+    "NaamTaak": "Stofzuigen",
+    "Inhoud": "woonkamer stofzuigen + eigen kamer",
+    "Status": "-"
+  }
+]

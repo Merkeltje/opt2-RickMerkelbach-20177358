@@ -1,0 +1,14 @@
+[
+  {
+    "Naam": "Rick",
+    "Email": "rbmerkelbach@gmail.com",
+    "wachtwoord": "A@pje18",
+    "Rol": "BEHEERDER"
+  },
+  {
+    "Naam": "Lynn",
+    "Email": "Lynn@gmail.com",
+    "wachtwoord": "0lifant09",
+    "Rol": "GEBRUIKER"
+  }
+]

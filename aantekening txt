@@ -1,0 +1,14 @@
+        for (gebruiker gebruiker : gebruikers) {
+            if (gebruiker.getEmail().equals(Email)){
+                System.out.println("wachtwoord: ");
+                String Wachtwoord = scanner.nextLine();
+
+                if (gebruiker.getWachtwoord().equals(Wachtwoord)){
+                    System.out.println("ingelogd als:" + gebruiker.getNaam());
+
+                }
+                else {
+                    //wachtwoord is verkeerd
+                }
+            }
+        }
